@@ -92,6 +92,7 @@ newInfo = {
        }
      }
 programmer_hash << newInfo
+programmer_hash
 end
 
 def changing_alan
