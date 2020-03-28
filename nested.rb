@@ -58,7 +58,7 @@ def dennis_ritchies_language
         :languages => ["C"]
       }
     }
- programmer_hash[:dennis_ritchie][:known_for]
+ programmer_hash[:dennis_ritchie][:languages]
 end
 
 def adding_matz
@@ -113,7 +113,7 @@ def changing_alan
     }
 	alans_new_info = "Object oriented design"
  programmer_hash[:alan_kay][:known_for] = alans_new_info
- 
+
  programmer_hash
 end
 
