@@ -111,8 +111,7 @@ def changing_alan
         :languages => ["C"]
       }
     }
-	alans_new_info = "Object oriented design"
- programmer_hash[:alan_kay][:known_for] = alans_new_info
+ programmer_hash[:alan_kay][:known_for] = "change"
  programmer_hash
 end
 
