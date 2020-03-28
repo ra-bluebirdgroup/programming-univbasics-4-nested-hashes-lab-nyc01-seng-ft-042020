@@ -91,7 +91,7 @@ newInfo = {
         :languages => ["LISP", "C"]
        }
      }
-programmer_hash + newInfo
+programmer_hash += newInfo
 programmer_hash
 end
 
